@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey, I'm Vineeth
 
-<!--
-**VineethGolla/VineethGolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a backend developer who works mainly with Java and system design.  
+Most of what I build here comes from learning, experimenting, and solving problems I find interesting.
 
-Here are some ideas to get you started:
+-----------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I use
+Java, Spring Boot, SQL, AWS, Docker, Git
+
+----------------------------------------------------
+
+### Projects
+- **[ParkingLot](https://github.com/VineethGolla/ParkingLot)** – parking lot system design  
+- **[TicTacToe](https://github.com/VineethGolla/Tictactoe)** – simple Java game  
+- **[SOLID-DesignPatterns](https://github.com/VineethGolla/SOLID-DesignPatterns)** – design principles in Java  
+- **[LLD1](https://github.com/VineethGolla/LLD1)** – low-level design problems  
+- **[DSA](https://github.com/VineethGolla/DSA)** – data structures and algorithms
+
+----------------------------------------------------
+
+### Currently learning
+- building scalable systems  
+- backend architecture and design  
+- improving problem-solving and DSA
+
+----------------------------------------------------
+
+### Contact
+[LinkedIn](https://www.linkedin.com/in/vineeth-g-099553137)
