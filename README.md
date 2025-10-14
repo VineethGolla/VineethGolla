@@ -11,11 +11,11 @@ Java,Data Structures and Algorithms(DSA), Spring Boot, SQL, AWS, Docker, Git
 ----------------------------------------------------
 
 ### Projects
-- **[ParkingLot](https://github.com/VineethGolla/ParkingLot)** – parking lot system design  
-- **[TicTacToe](https://github.com/VineethGolla/Tictactoe)** – simple Java game  
-- **[SOLID-DesignPatterns](https://github.com/VineethGolla/SOLID-DesignPatterns)** – design principles in Java  
-- **[LLD1](https://github.com/VineethGolla/LLD1)** – low-level design problems  
-- **[DSA](https://github.com/VineethGolla/DSA)** – data structures and algorithms
+- **[ParkingLot](https://github.com/VineethGolla/ParkingLot)** - parking lot system design  
+- **[TicTacToe](https://github.com/VineethGolla/Tictactoe)** - simple Java game  
+- **[SOLID-DesignPatterns](https://github.com/VineethGolla/SOLID-DesignPatterns)** - design principles in Java  
+- **[LLD1](https://github.com/VineethGolla/LLD1)** - low-level design problems  
+- **[DSA](https://github.com/VineethGolla/DSA)** - data structures and algorithms
 
 ----------------------------------------------------
 
