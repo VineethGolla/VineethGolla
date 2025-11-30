@@ -6,7 +6,7 @@ Most of what I build here comes from learning, experimenting, and solving proble
 -----------------------------------------------------
 
 ### What I use
-Java,Data Structures and Algorithms(DSA), Spring Boot, SQL, AWS, Docker, Git, HTML, CSS, JavaScript, React
+Java,Data Structures and Algorithms(DSA), Spring Boot,Hibernate, SQL, AWS, Docker, Git, HTML, CSS, JavaScript, React
 
 ----------------------------------------------------
 
