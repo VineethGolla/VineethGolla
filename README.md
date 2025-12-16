@@ -1,30 +1,38 @@
-# Hey, I'm Vineeth
+Vineeth Golla
 
-I’m a backend developer who works mainly with Java and system design.  
-Most of what I build here comes from learning, experimenting, and solving problems I find interesting.
+Backend engineer working with Java and Spring Boot.
+I build REST services with clean layering, proper validation, and practical design choices.
 
------------------------------------------------------
+Tech:
+- Java
+- Spring Boot
+- REST APIs
+- MySQL
+- Maven
+- Git
 
-### What I use
-Java,Data Structures and Algorithms(DSA), Spring Boot,Hibernate, SQL, AWS, Docker, Git, HTML, CSS, JavaScript, React
+Selected backend work:
+User Service  
+Authentication and user management APIs
 
-----------------------------------------------------
+Product Service  
+CRUD APIs with pagination and sorting
 
-### Projects
-- **[ParkingLot](https://github.com/VineethGolla/ParkingLot)** - parking lot system design  
-- **[TicTacToe](https://github.com/VineethGolla/Tictactoe)** - simple Java game  
-- **[SOLID-DesignPatterns](https://github.com/VineethGolla/SOLID-DesignPatterns)** - design principles in Java  
-- **[LLD1](https://github.com/VineethGolla/LLD1)** - low-level design problems  
-- **[DSA](https://github.com/VineethGolla/DSA)** - data structures and algorithms
+Payment Service (Stripe)  
+Payment flows, webhooks, and redirects
 
-----------------------------------------------------
+Parking Lot (LLD)  
+Object-oriented low-level system design
 
-### Currently learning
-- building scalable systems  
-- backend architecture and design  
-- improving problem-solving and DSA
+Other work:
+- Data Structures & Algorithms
+- SOLID principles in Java
+- Low-level design exercises
 
-----------------------------------------------------
+Approach:
+- Clean, readable code
+- Clear separation of concerns
+- Production-style structure
 
-### Contact
-[LinkedIn](https://www.linkedin.com/in/vineeth-g-099553137)
+LinkedIn  
+https://www.linkedin.com/in/vineeth-golla
