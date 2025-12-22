@@ -4,8 +4,9 @@ Backend engineer working with Java and Spring Boot.
 I build REST services with clean layering, proper validation, and practical design choices.
 
 Tech:
-- Java
-- Spring Boot
+- C#, Java
+- Spring Boot, ASP.NET
+- Angular, React
 - REST APIs
 - MySQL
 - Maven
