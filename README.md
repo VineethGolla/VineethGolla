@@ -1,8 +1,6 @@
 ## Vineeth Golla
 
-Java backend developer.
-
-This GitHub contains my Java backend work focused on building REST services with clean structure and practical design.
+This GitHub contains my Java backend work.
 
 Tech: Java, Spring Boot, REST APIs, MySQL, Maven, Redis, Kafka, Eureka, Git
 
@@ -16,6 +14,6 @@ Main repositories:
 - SOLID / Design Principles: Java examples of SOLID concepts
 - DSA: data structures and algorithms practice
 
-Focus areas: backend development, system design, clean and readable code.
+Focus areas: backend services, system design, clean and readable code.
 
 LinkedIn: https://www.linkedin.com/in/vineeth-golla
