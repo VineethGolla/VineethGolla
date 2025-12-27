@@ -1,40 +1,21 @@
-Vineeth Golla
+## Vineeth Golla
 
-Backend engineer working with Java and Spring Boot.
-I build REST services with clean layering, proper validation, and practical design choices.
+Java backend developer.
 
-Tech:
-- C#, Java
-- Spring Boot, ASP.NET
-- Angular, React
-- REST APIs
-- MySQL
-- Maven
-- Git
+This GitHub contains my Java backend work focused on building REST services with clean structure and practical design.
 
-Selected backend work:
+Tech: Java, Spring Boot, REST APIs, MySQL, Maven, Redis, Kafka, Eureka, Git
 
-User Service  
-Authentication and user management APIs
+Main repositories:
+- User Service: user management and authentication APIs
+- Product Service: CRUD APIs with pagination and sorting
+- Payment Service (Stripe): payment flow, redirects, and webhooks
+- Caching (Redis): caching to reduce database load
+- Messaging (Kafka): asynchronous producer and consumer examples
+- Parking Lot (LLD): object-oriented low-level system design
+- SOLID / Design Principles: Java examples of SOLID concepts
+- DSA: data structures and algorithms practice
 
-Product Service  
-CRUD APIs with pagination and sorting
+Focus areas: backend development, system design, clean and readable code.
 
-Payment Service (Stripe)  
-Payment flows, webhooks, and redirects
-
-Parking Lot (LLD)  
-Object-oriented low-level system design
-
-Other work:
-- Data Structures & Algorithms
-- SOLID principles in Java
-- Low-level design exercises
-
-Approach:
-- Clean, readable code
-- Clear separation of concerns
-- Production-style structure
-
-LinkedIn  
-https://www.linkedin.com/in/vineeth-golla
+LinkedIn: https://www.linkedin.com/in/vineeth-golla
