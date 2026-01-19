@@ -1,19 +1,26 @@
-## Vineeth Golla
+Vineeth Golla
 
-This GitHub contains my Java backend work.
+This GitHub contains my Java backend projects and learning work.
 
-Tech: Java, Spring Boot, REST APIs, MySQL, Maven, Redis, Kafka, Eureka, Git
+I mainly work on backend services using Java and Spring Boot, focusing on how backend systems are built and connected. Most repositories here are small, focused projects meant to understand one backend concept at a time.
 
-Main repositories:
-- User Service: user management and authentication APIs
-- Product Service: CRUD APIs with pagination and sorting
-- Payment Service (Stripe): payment flow, redirects, and webhooks
-- Caching (Redis): caching to reduce database load
-- Messaging (Kafka): asynchronous producer and consumer examples
-- Parking Lot (LLD): object-oriented low-level system design
-- SOLID / Design Principles: Java examples of SOLID concepts
-- DSA: data structures and algorithms practice
+Tech I use:
+Java, Spring Boot, REST APIs, MySQL, Maven, Redis, Kafka, Eureka, Git
 
-Focus areas: backend services, system design, clean and readable code.
+Backend projects:
+User Service – user management and authentication APIs
+Product Service – CRUD APIs with pagination and sorting
+Payment Service (Stripe) – payment flows, redirects, and webhook handling
+Caching (Redis) – using cache to reduce database load
+Messaging (Kafka) – basic producer and consumer implementations
+Service Discovery (Eureka) – service registry for discovering backend services
 
-LinkedIn: https://www.linkedin.com/in/vineeth-golla
+Design and fundamentals:
+Parking Lot (LLD) - object-oriented low-level design practice
+SOLID / Design Principles – Java examples of core design concepts
+DSA – data structures and algorithms practice
+
+My focus is backend development, writing readable code, and understanding how backend systems work together.
+
+LinkedIn:
+[https://www.linkedin.com/in/vineeth-golla](https://www.linkedin.com/in/vineeth-golla)
