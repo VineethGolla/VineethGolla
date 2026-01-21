@@ -21,19 +21,19 @@ This repository contains backend services and focused projects created to learn 
 
 ## Backend Projects
 
-* User Service – user management and authentication APIs
-* Product Service – CRUD APIs with pagination and sorting
-* Payment Service (Stripe) – payment flows and webhook handling
-* Caching (Redis) – reducing database load
-* Messaging (Kafka) – producer and consumer implementations
-* Service Discovery (Eureka) – backend service registry
+* User Service - user management and authentication APIs
+* Product Service - CRUD APIs with pagination and sorting
+* Payment Service (Stripe) - payment flows and webhook handling
+* Caching (Redis) - reducing database load
+* Messaging (Kafka) - producer and consumer implementations
+* Service Discovery (Eureka) - backend service registry
 
 ## Java and Design Work
 
-* TicTacToe – logic and state handling
-* Parking Lot – object-oriented low-level design
-* SOLID principles – Java design examples
-* DSA – problem-solving practice
+* TicTacToe - logic and state handling
+* Parking Lot - object-oriented low-level design
+* SOLID principles - Java design examples
+* DSA - problem-solving practice
 
 ## LinkedIn
 
