@@ -1,31 +1,40 @@
-# <Project Name>
+# Vineeth Golla
 
-## Overview
-This project is a backend service built using Spring Boot that handles <what it does>.
+Java backend developer focused on understanding how real backend systems are built, connected, and maintained.
 
-## Features
-- REST APIs for core operations
-- Secure authentication (if applicable)
-- Database integration using MySQL
-- Error handling and validation
+This repository contains backend services and focused projects created to learn core backend concepts through hands-on implementation.
 
-## Tech Stack
-- Java
-- Spring Boot
-- MySQL
-- Docker (if used)
-- Redis / Kafka (if used)
+## Skills
 
-## Architecture
-Layered architecture:
-Controller → Service → Repository
+* Java
+* Spring Boot
+* REST APIs
+* MySQL
+* Redis
+* Apache Kafka
+* Eureka Service Discovery
+* Maven
+* Git
+* Low-Level Design (LLD)
+* SOLID Principles
+* Data Structures and Algorithms
 
-## How to Run
-1. Clone the repository
-2. Configure application.properties
-3. Run using Maven or Gradle
+## Backend Projects
 
-## Future Improvements
-- Add caching layer
-- Improve scalability
-- Add more integrations
+* User Service - user management and authentication APIs
+* Product Service - CRUD APIs with pagination and sorting
+* Payment Service (Stripe) - payment flows and webhook handling
+* Caching (Redis) - reducing database load
+* Messaging (Kafka) - producer and consumer implementations
+* Service Discovery (Eureka) - backend service registry
+
+## Java and Design Work
+
+* TicTacToe - logic and state handling
+* Parking Lot - object-oriented low-level design
+* SOLID principles - Java design examples
+* DSA - problem-solving practice
+
+## LinkedIn
+
+[https://www.linkedin.com/in/vineeth-golla](https://www.linkedin.com/in/vineeth-golla)
