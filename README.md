@@ -2,55 +2,31 @@
 
 Software Engineer focused on backend systems, distributed services, and reliable product infrastructure.
 
-I like building systems that are easy to reason about: clear APIs, predictable data flow, sensible failure handling, and code that another engineer can pick up without a map.
+I like building systems that are easy to reason about: clear APIs, predictable data flow, sensible failure handling, and code another engineer can pick up quickly.
 
-## What I work with
+**Core stack**  
+Java · Spring Boot · Spring WebFlux · REST · gRPC · Kafka · Flink · Redis · PostgreSQL · MySQL · Solr · AWS · Kubernetes · Docker
 
-| Area | Stack |
-| --- | --- |
-| Languages | Java, Python, SQL, JavaScript, TypeScript |
-| Backend | Spring Boot, Spring WebFlux, REST, gRPC, JPA/Hibernate |
-| Distributed systems | Kafka, Flink, Redis, service discovery, event-driven design |
-| Data & search | PostgreSQL, MySQL, Solr, OpenSearch |
-| Cloud & delivery | AWS, Kubernetes, Docker, Helm, CI/CD |
-| Engineering fundamentals | System design, DSA, OOP, concurrency, design patterns |
+**Engineering focus**  
+System Design · Distributed Systems · DSA · OOP · Concurrency · Event-Driven Architecture · Reliability
 
-## Selected work
+**Selected work**
 
-- [**Payment Service — Stripe Integration**](https://github.com/vineeth016/Payment-Service-Stripe-Integration-) — payment APIs, external service integration, and webhook handling.
-- [**User Authentication Service**](https://github.com/vineeth016/User-Authentication-Service) — secure login and registration with Spring Security, JWT, and OAuth2.
-- [**Service Discovery**](https://github.com/vineeth016/ServiceDiscovery) — Spring Cloud Eureka service registry for microservice discovery.
-- [**Parking Lot Management System**](https://github.com/vineeth016/Parking-Lot-Management-System) — Java low-level design with object-oriented modeling, allocation, tickets, and pricing.
+- [Payment Service — Stripe Integration](https://github.com/vineeth016/Payment-Service-Stripe-Integration-) — payment APIs, external service integration, and webhook handling.
+- [User Authentication Service](https://github.com/vineeth016/User-Authentication-Service) — Spring Security, JWT, OAuth2, and secure REST APIs.
+- [Service Discovery](https://github.com/vineeth016/ServiceDiscovery) — Spring Cloud Eureka service registry for microservice discovery.
+- [Parking Lot Management System](https://github.com/vineeth016/Parking-Lot-Management-System) — Java low-level design with allocation, ticketing, and pricing logic.
 
-## Currently sharpening
+**Quick backend puzzle**
 
-System design, distributed systems, concurrency, and problem solving in Java.
-
-## Quick break — one tiny backend game
-
-A payment provider retries the **same webhook three times** after a timeout. What keeps the service from processing the same payment more than once?
+A payment provider retries the same webhook three times after a timeout. What prevents the payment from being processed three times?
 
 <details>
-<summary><b>A. Add more threads</b></summary>
+<summary>Show answer</summary>
 
-Not quite. More concurrency can make the duplicate-processing problem worse.
+Use an **idempotency key** (or stable event ID) and reject/reuse already-processed requests.
 
 </details>
 
-<details>
-<summary><b>B. Use an idempotency key</b></summary>
-
-Correct. Store and check a stable event or idempotency key before applying the operation again.
-
-</details>
-
-<details>
-<summary><b>C. Increase the timeout</b></summary>
-
-That may reduce retries, but it does not make duplicate delivery safe.
-
-</details>
-
-## Elsewhere
-
+**Links**  
 [Portfolio](https://github.com/vineeth016/Portfolio) · [LinkedIn](https://www.linkedin.com/in/vineeth-golla)
