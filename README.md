@@ -1,40 +1,56 @@
 # Vineeth Golla
 
-Java backend developer focused on understanding how real backend systems are built, connected, and maintained.
+Software Engineer focused on backend systems, distributed services, and reliable product infrastructure.
 
-This repository contains backend services and focused projects created to learn core backend concepts through hands-on implementation.
+I like building systems that are easy to reason about: clear APIs, predictable data flow, sensible failure handling, and code that another engineer can pick up without a map.
 
-## Skills
+## What I work with
 
-* Java
-* Spring Boot
-* REST APIs
-* MySQL
-* Redis
-* Apache Kafka
-* Eureka Service Discovery
-* Maven
-* Git
-* Low-Level Design (LLD)
-* SOLID Principles
-* Data Structures and Algorithms
+| Area | Stack |
+| --- | --- |
+| Languages | Java, Python, SQL, JavaScript, TypeScript |
+| Backend | Spring Boot, Spring WebFlux, REST, gRPC, JPA/Hibernate |
+| Distributed systems | Kafka, Flink, Redis, service discovery, event-driven design |
+| Data & search | PostgreSQL, MySQL, Solr, OpenSearch |
+| Cloud & delivery | AWS, Kubernetes, Docker, Helm, CI/CD |
+| Engineering fundamentals | System design, DSA, OOP, concurrency, design patterns |
 
-## Backend Projects
+## Selected work
 
-* User Service - user management and authentication APIs
-* Product Service - CRUD APIs with pagination and sorting
-* Payment Service (Stripe) - payment flows and webhook handling
-* Caching (Redis) - reducing database load
-* Messaging (Kafka) - producer and consumer implementations
-* Service Discovery (Eureka) - backend service registry
+- [**Payment Service — Stripe Integration**](https://github.com/vineeth016/Payment-Service-Stripe-Integration-) — payment APIs, external service integration, and webhook handling.
+- [**User Authentication Service**](https://github.com/vineeth016/User-Authentication-Service) — secure login and registration with Spring Security, JWT, and OAuth2.
+- [**Service Discovery**](https://github.com/vineeth016/ServiceDiscovery) — Spring Cloud Eureka service registry for microservice discovery.
+- [**Parking Lot Management System**](https://github.com/vineeth016/Parking-Lot-Management-System) — Java low-level design with object-oriented modeling, allocation, tickets, and pricing.
 
-## Java and Design Work
+## Currently sharpening
 
-* TicTacToe - logic and state handling
-* Parking Lot - object-oriented low-level design
-* SOLID principles - Java design examples
-* DSA - problem-solving practice
+System design, distributed systems, concurrency, and problem solving in Java.
 
-## LinkedIn
+## Quick break — one tiny backend game
 
-[https://www.linkedin.com/in/vineeth-golla](https://www.linkedin.com/in/vineeth-golla)
+A payment provider retries the **same webhook three times** after a timeout. What keeps the service from processing the same payment more than once?
+
+<details>
+<summary><b>A. Add more threads</b></summary>
+
+Not quite. More concurrency can make the duplicate-processing problem worse.
+
+</details>
+
+<details>
+<summary><b>B. Use an idempotency key</b></summary>
+
+Correct. Store and check a stable event or idempotency key before applying the operation again.
+
+</details>
+
+<details>
+<summary><b>C. Increase the timeout</b></summary>
+
+That may reduce retries, but it does not make duplicate delivery safe.
+
+</details>
+
+## Elsewhere
+
+[Portfolio](https://github.com/vineeth016/Portfolio) · [LinkedIn](https://www.linkedin.com/in/vineeth-golla)
