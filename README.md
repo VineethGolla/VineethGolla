@@ -12,10 +12,10 @@ System Design · Distributed Systems · DSA · OOP · Concurrency · Event-Drive
 
 **Selected work**
 
-- [Payment Service — Stripe Integration](https://github.com/vineeth016/Payment-Service-Stripe-Integration-) — payment APIs, external service integration, and webhook handling.
-- [User Authentication Service](https://github.com/vineeth016/User-Authentication-Service) — Spring Security, JWT, OAuth2, and secure REST APIs.
-- [Service Discovery](https://github.com/vineeth016/ServiceDiscovery) — Spring Cloud Eureka service registry for microservice discovery.
-- [Parking Lot Management System](https://github.com/vineeth016/Parking-Lot-Management-System) — Java low-level design with allocation, ticketing, and pricing logic.
+- [Payment Service - Stripe Integration](https://github.com/vineeth016/Payment-Service-Stripe-Integration-) - payment APIs, external service integration, and webhook handling.
+- [User Authentication Service](https://github.com/vineeth016/User-Authentication-Service) - Spring Security, JWT, OAuth2, and secure REST APIs.
+- [Service Discovery](https://github.com/vineeth016/ServiceDiscovery) - Spring Cloud Eureka service registry for microservice discovery.
+- [Parking Lot Management System](https://github.com/vineeth016/Parking-Lot-Management-System) - Java low-level design with allocation, ticketing, and pricing logic.
 
 **Quick backend puzzle**
 
